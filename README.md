@@ -6,7 +6,7 @@ I use this repository to track my progress, write clean solutions, and build str
 
 ---
 
-## 📊 Progress Overview
+## Progress Overview
 
 - **Total Problems:** 150  
 - **Solved:** 2 / 150   
@@ -22,7 +22,7 @@ I use this repository to track my progress, write clean solutions, and build str
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - Arrays & Hashing  
 - Two Pointers  
@@ -42,7 +42,7 @@ I use this repository to track my progress, write clean solutions, and build str
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 NeetCode-150/
