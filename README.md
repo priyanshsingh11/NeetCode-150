@@ -65,3 +65,31 @@ NeetCode-150/
 │
 └── README.md
 ```
+
+## Goals of This Repository
+
+- Strengthen **Data Structures & Algorithms (DSA)** fundamentals  
+- Prepare for **FAANG / product-based company interviews**  
+- Write **readable, clean, and optimized Python code**  
+- Maintain a **public consistency and learning log**
+
+---
+
+## Notes
+
+- All solutions are written in **Python**
+- **Optimized approaches** are preferred wherever possible
+- Repository is actively maintained until **150/150 problems are completed**
+
+---
+
+##  LeetCode Profile & Progress
+
+- **Platform:** LeetCode  
+- **Username:** Priyansh Singh  
+- **Problem Set:** NeetCode 150  
+
+**LeetCode Profile:**  
+https://leetcode.com/priyanshsingh11/
+
+This repository mirrors my LeetCode journey with well-structured, interview-ready Python solutions.
