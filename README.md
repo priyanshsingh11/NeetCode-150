@@ -46,7 +46,6 @@ I use this repository to track my progress, write clean solutions, and build str
 
 ```text
 NeetCode-150/
-│
 ├── Arrays/
 ├── Two_Pointers/
 ├── Sliding_Window/
