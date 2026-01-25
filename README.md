@@ -9,7 +9,7 @@ I use this repository to track my progress, write clean solutions, and build str
 ## Progress Overview
 
 - **Total Problems:** 150  
-- **Solved:** 8 / 150   
+- **Solved:** 9 / 150   
 - **Language:** Python   
 
 ### Difficulty Breakdown
