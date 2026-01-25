@@ -88,7 +88,6 @@ NeetCode-150/
 - **Username:** Priyansh Singh  
 - **Problem Set:** NeetCode 150  
 
-**LeetCode Profile:**  
-https://leetcode.com/priyanshsingh11/
+**LeetCode Profile:**  https://leetcode.com/priyanshsingh11/
 
 This repository mirrors my LeetCode journey with well-structured, interview-ready Python solutions.
