@@ -24,7 +24,8 @@ I use this repository to track my progress, write clean solutions, and build str
 
 ## Topics Covered
 
-- Arrays & Hashing  
+- Arrays & Hashing
+- Strings
 - Two Pointers  
 - Sliding Window  
 - Stack  
@@ -47,6 +48,7 @@ I use this repository to track my progress, write clean solutions, and build str
 ```text
 NeetCode-150/
 ├── Arrays/
+├── Strings/
 ├── Two_Pointers/
 ├── Sliding_Window/
 ├── Stack/
