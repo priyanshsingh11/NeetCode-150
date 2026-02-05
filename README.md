@@ -56,6 +56,7 @@ NeetCode-150/
 ├── Binary_Search/
 ├── Linked_List/
 ├── Trees/
+├── Pure Hashing/
 ├── Tries/
 ├── Heap/
 ├── Backtracking/
