@@ -31,7 +31,8 @@ I use this repository to track my progress, write clean solutions, and build str
 - Stack  
 - Binary Search  
 - Linked List  
-- Trees & Binary Trees  
+- Trees & Binary Trees
+- Pure Hashing
 - Tries  
 - Heap / Priority Queue  
 - Backtracking  
