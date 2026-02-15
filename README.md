@@ -4,6 +4,10 @@ This repository contains my **Python implementations** of the **NeetCode 150** p
 
 I use this repository to track my progress, write clean solutions, and build strong problem-solving fundamentals.
 
+<a href="https://leetcode.com/priyanshsingh11/">
+  <img src="https://leetcard.jacoblin.cool/priyanshsingh11?theme=dark" width="400" />
+</a>
+
 ---
 
 ## Progress Overview
