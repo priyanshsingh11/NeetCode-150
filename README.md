@@ -18,7 +18,7 @@ I use this repository to track my progress, write clean solutions, and build str
 
 ### Difficulty Breakdown
 
-| Difficulty | Solved |
+| Difficulty | Questions |
 |----------|--------|
 | Easy | 28 |
 | Medium | 101 |
