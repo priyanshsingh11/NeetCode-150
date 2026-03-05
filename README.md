@@ -62,7 +62,7 @@ NeetCode-150/
 ├── Trees/
 ├── Pure Hashing/
 ├── Tries/
-├── Heap/
+├── Heap / Priority Queue
 ├── Backtracking/
 ├── Graphs/
 ├── DP/
