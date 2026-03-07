@@ -1,4 +1,4 @@
-# 🚀 NeetCode 150 – Python Solutions
+# 🚀 NeetCode 150 – Python/C++ Solutions
 
 This repository contains my **Python implementations** of the **NeetCode 150** problem set, a well-structured roadmap for mastering **Data Structures & Algorithms** and preparing for **technical interviews**.
 
