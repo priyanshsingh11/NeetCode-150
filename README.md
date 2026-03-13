@@ -13,7 +13,7 @@ I use this repository to track my progress, write clean solutions, and build str
 ## Progress Overview
 
 - **Total Problems:** 150  
-- **Solved:** 100 / 150   
+- **Solved:** 101 / 150   
 - **Language:** Python   
 
 ### Difficulty Breakdown
