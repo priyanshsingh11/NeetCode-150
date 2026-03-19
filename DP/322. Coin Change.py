@@ -9,3 +9,6 @@ class Solution(object):
                     dp[i]=min(dp[i],1+dp[i-coin])
 
         return dp[amount] if dp[amount] != float('inf') else -1
+
+
+#  use dp like to calculate the differnce rather than the sum 
