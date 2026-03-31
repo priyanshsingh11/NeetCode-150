@@ -22,7 +22,4 @@ class Solution(object):
             
             end+=1
         
-        return ans 
-
-            
-            
+        return ans   
