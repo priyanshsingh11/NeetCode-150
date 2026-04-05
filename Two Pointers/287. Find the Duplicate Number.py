@@ -18,7 +18,7 @@ class Solution(object):
             point=nums[point]
             left=nums[left]
 
-            if point==point2: return point2
+            if point==left: return point
         
 
         
