@@ -1,0 +1,24 @@
+class Solution(object):
+    def findDuplicate(self, nums):
+        n=len(nums)
+
+        left=0
+        right=0
+
+        while True:
+            left=nums[left]
+            right=nums[nums[right]]
+
+            if left==right: 
+                break
+
+        point=0
+
+        while True:
+            point=nums[point]
+            left=nums[left]
+
+            if point==point2: return point2
+        
+
+        
